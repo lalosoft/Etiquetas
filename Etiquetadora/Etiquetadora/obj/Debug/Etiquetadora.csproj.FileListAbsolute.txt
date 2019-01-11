@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\obj\Debug\Etiquetadora.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\obj\Debug\Etiquetadora.Form1.resources
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\obj\Debug\Etiquetadora.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\bin\Debug\itextsharp.dll
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\bin\Debug\EtiquetadoraV2.exe.config
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\bin\Debug\EtiquetadoraV2.exe
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\bin\Debug\EtiquetadoraV2.pdb
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\obj\Debug\EtiquetadoraV2.Properties.Resources.resources
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\obj\Debug\EtiquetadoraV2.exe
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\obj\Debug\EtiquetadoraV2.pdb
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\bin\Debug\EtiquetadoraV2.exe.manifest
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\bin\Debug\EtiquetadoraV2.application
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\obj\Debug\EtiquetadoraV2.exe.manifest
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Etiquetadora\Etiquetadora\obj\Debug\EtiquetadoraV2.application
